@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: Boom
+pages:
+- index.md
